@@ -6,3 +6,9 @@
 h1 {
     color: red;
 }
+footer {
+    background: #ff8800;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
